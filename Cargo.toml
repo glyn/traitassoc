@@ -1,0 +1,6 @@
+[package]
+name = "traitassoc"
+version = "0.1.0"
+authors = ["Glyn Normington <glyn.normington@gmail.com>"]
+
+[dependencies]
